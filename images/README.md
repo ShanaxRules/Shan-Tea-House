@@ -1,1 +1,1 @@
-Made a simple landing frontend page for a tea company using html , css , tailwindCSS and daisyui. The page is responsive for most of the devices. It works on almost all of them.
+Made a simple landing frontend page for a tea company using html , css , tailwindCSS and daisyui. The page is responsive for all devices.
